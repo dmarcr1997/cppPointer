@@ -16,6 +16,6 @@ int main() {
 	delete[] x;
 	delete[] y;
 
-	return 0;
+	return 0;g
 	
 }
